@@ -32,7 +32,7 @@ if($n===1){
         <ul>
           <li>
             <a href="https://dotinstall.com" target="_blank">
-              <img src="img/blog.png" width="20" height="20" alt="ブログサイトへのリンク画像です">
+              <img src="https://github.com/takomono/phplearning.github.io/blob/main/blog.png?raw=true" width="20" height="20" alt="ブログサイトへのリンク画像です">
             </a>
           </li>
           <li>
