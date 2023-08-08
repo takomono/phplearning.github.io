@@ -60,7 +60,7 @@ if($n===1){
     </section>
   
     <section>
-      <img src="img/work3.png" width="400" height="260" alt="神経衰弱の紹介画像">
+      <img src="https://github.com/takomono/phplearning.github.io/blob/main/work3.png?raw=true" width="400" height="260" alt="神経衰弱の紹介画像">
       <h1>神経衰弱</h1>
       <p>楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。</p>
     </section>
