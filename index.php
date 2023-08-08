@@ -23,7 +23,7 @@ if($n===1){
   <header>
     <div class="container">
       <div class="icon">
-        <img src="img/taro.png" width="120" height="120" alt="太郎のアイコンです">
+        <img src="https://github.com/takomono/phplearning.github.io/blob/main/taro.png?raw=true" width="120" height="120" alt="太郎のアイコンです">
       </div>
       <div class="info">
         <h1>山田太郎</h1>
