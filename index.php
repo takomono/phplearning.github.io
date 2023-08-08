@@ -17,7 +17,7 @@ if($n===1){
   <title>太郎のポートフォリオサイト</title>
   <link rel="icon" href="favicon.ico">
   <meta name="description" content="太郎のポートフォリオサイトです。">
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
