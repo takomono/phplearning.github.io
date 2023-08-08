@@ -48,7 +48,7 @@ if($n===1){
   <section class="works">
     <h1>WORKS</h1>
     <section>
-      <img src="img/work1.png" width="400" height="260" alt="勇者ゲームの紹介画像">
+      <img src="https://github.com/takomono/phplearning.github.io/blob/main/work1.png?raw=true" width="400" height="260" alt="勇者ゲームの紹介画像">
       <h1>勇者ゲーム</h1>
       <p>楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。楽しいアプリです。</p>
     </section>
